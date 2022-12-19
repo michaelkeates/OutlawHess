@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/580064866/6fb67768-1bb7-4ff5-9882-6c96cc3bef70" width="512px"/>
+  <img src="https://repository-images.githubusercontent.com/580088261/a76dbb7c-760b-4a10-a656-3e13a934a26b" width="512px"/>
 </p>
 <h1 align="center">OutlawHess</h1>
 I was for this assigment set by the University of South Wales tasked with developing a WinForm program using C# as a front end for a mySQL database that was provided. The application is to be used by managers of the bank, so should present functions useful for an Accounts Manager working at the bank. Marks will be awarded based of the technical complexity of tasks undertaken, the quality of your C# coding, and the design and ease of use of the interface developed.
