@@ -42,7 +42,6 @@ I was for this assigment set by the University of South Wales tasked with develo
 <br></br>
 <h2 align="left">Images</h1>
 
-<p align="center">
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.11.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.27.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.20.jpg" width="10%"/>
@@ -54,7 +53,6 @@ I was for this assigment set by the University of South Wales tasked with develo
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.28.jpg" width="10%"/>
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.55.jpg" width="10%"/>
 
-</p>
 <br></br>
 <h2 align="left">Getting Started</h1>
 
