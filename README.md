@@ -42,16 +42,11 @@ I was for this assigment set by the University of South Wales tasked with develo
 <br></br>
 <h2 align="left">Images</h1>
 
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.11.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.27.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.20.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.28.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.37.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.51.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.59.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.14.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.28.jpg" width="100%"/>
-<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.55.jpg" width="100%"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.11.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.13.27.jpg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.20.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.28.jpg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.37.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.51.jpg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.14.59.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.14.jpg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.28.jpg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/01/Screenshot-2022-08-02-at-14.15.55.jpg" width="45%" hspace="10"/>
 
 <br></br>
 <h2 align="left">Getting Started</h1>
