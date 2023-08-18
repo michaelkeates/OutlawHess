@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/580088261/a76dbb7c-760b-4a10-a656-3e13a934a26b" width="512px"/>
+  <img src="https://repository-images.githubusercontent.com/580088261/e4aef5c5-4235-4db2-9194-3d076b29a6f5" width="512px"/>
 </p>
 <h1 align="center">OutlawHess</h1>
 <p align="center">
