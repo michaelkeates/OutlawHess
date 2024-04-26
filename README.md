@@ -2,25 +2,7 @@
   <img src="https://repository-images.githubusercontent.com/580088261/e4aef5c5-4235-4db2-9194-3d076b29a6f5" width="512px"/>
 </p>
 <h1 align="center">OutlawHess</h1>
-<p align="center">
 
-<a href="http://unlicense.org/">
-<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
-</a>
-
-<a href="https://github.com/michaelkeates/OutlawHess/issues">
-<img src="https://img.shields.io/github/issues/michaelkeates/OutlawHess.svg" alt="Issues">
-</a>
-
-<a href="https://github.com/michaelkeates/OutlawHess/fork">
-<img src="https://img.shields.io/github/forks/michaelkeates/OutlawHess.svg" alt="Forks">
-</a>
-
-<a href="https://github.com/michaelkeates/OutlawHess">
-<img src="https://img.shields.io/github/stars/michaelkeates/OutlawHess.svg" alt="Stars">
-</a>
-
-</p>
 I was for this assigment set by the University of South Wales tasked with developing a WinForm program using C# as a front end for a mySQL database that was provided. The application is to be used by managers of the bank, so should present functions useful for an Accounts Manager working at the bank. Marks will be awarded based of the technical complexity of tasks undertaken, the quality of your C# coding, and the design and ease of use of the interface developed.
 <br></br>
 <br></br>
